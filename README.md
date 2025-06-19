@@ -15,7 +15,7 @@ This project uses Terraform to provision a basic **Amazon EKS (Elastic Kubernete
 - AWS CLI configured (`aws configure`)
 - Terraform installed
 
-## ⚙️ Usage
+## ⚙️ Usage 
 
 ```bash
 # Step 1: Initialize Terraform
@@ -30,4 +30,4 @@ terraform apply
 # Step 4: To delete all resources:
 terraform destroy
 
-```bash
+```
